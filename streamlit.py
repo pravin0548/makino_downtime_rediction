@@ -1,9 +1,6 @@
 import streamlit as st 
 import pandas as pd
 import numpy as np
-from sqlalchemy import create_engine
-
-
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import OrdinalEncoder
