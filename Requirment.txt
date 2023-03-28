@@ -1,0 +1,10 @@
+Flask
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+sqlalchemy
+sklearn
+feature_engine
+joblib
+pickle
